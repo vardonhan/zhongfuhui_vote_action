@@ -1,0 +1,23 @@
+{
+  "name": "zfh_vote",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000-N�y\u001aO�~;u\u000f\\\u000bz�^�bhy\r\u0000 \u0000",
+  "main": "vote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/vardonhan/zhongfuhui_vote_action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vardonhan/zhongfuhui_vote_action/issues"
+  },
+  "homepage": "https://github.com/vardonhan/zhongfuhui_vote_action#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "qs": "^6.11.2"
+  }
+}
