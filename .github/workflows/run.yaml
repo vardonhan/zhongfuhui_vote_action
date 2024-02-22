@@ -22,5 +22,8 @@ jobs:
       with:
         node-version: '14'
 
+    - name: Install Dependencies
+      run: npm install
+
     - name: Run JavaScript Script
       run: node vote.js
